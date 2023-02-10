@@ -24,4 +24,5 @@ Afin de rendre l'exposition de l'oeuvre possible, il y avait du matériel fourni
 ![photo des projecteur](bian/media/projecteur_1.jpg)
 ![photo des projecteur](bian/media/projecteur_2.jpg)
 ![photo des poubelles](bian/media/derriere_poubelle.jpg)
-![photo des bidon](bian/media/camion_noir_plante.jpg)
+![photo des bidon](bian/media/derriere_poubelle_eau.jpg)
+
