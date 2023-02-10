@@ -8,6 +8,7 @@ Cette oeuvre a été créer par Paul Duncombe en 2022.
 L'oeuvre expose trois camionnettes empilées, viellies et rouillées. Des plantes ont poussées à travers d'eux. Elles y sont entretenues par des robots composés de capteurs et de senseurs qui captent les besoins des plantes et leur donnent ce dont ils on besoin. ![photo du cartel](media/cartel_camion.jpg)
 
 C'est une oeuvre comtemplative, mais elle réussi à nous faire voyager dans un scénario future immersif.
+
 VIDÉO TOMMOROW'S BORROWED SCENERY
 [![VIDÉO TOMMOROW'S BORROWED SCENERY](media/camion_blanc_robot_porte_conducteur.jpg)](https://youtu.be/EUWQL71wEC8)
 
