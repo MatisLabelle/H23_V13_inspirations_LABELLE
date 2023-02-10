@@ -14,4 +14,5 @@ VIDÉO TOMMOROW'S BORROWED SCENERY
 
 La camionnette noir est déposée sur les camionnettes rouge et blanche. Des robots sont à l'extérieur afin qu'ils soient visibles. L'oeuvre nécéssite un grand espace pour exposé. L'oeuvre est placée au sol, mais elle a une hauteure conséquante puisque les camionnettes sont superposées. ![photo de l'oeuvre](media/camion_trois_ensemble.jpg)
 
-Pour exposer son oeuvre, l'artiste a du empiler les camionnettes. Il a aussi du planter les mousses et autres plantes à l'intérieur des véhicules. Par la suite il a du créer et programmer les robots afin qu'ils puissent entretenir automatiquement les plantes. ![photo de robots]()
+Pour exposer son oeuvre, l'artiste a du empiler les camionnettes. Il a aussi du planter les mousses et autres plantes à l'intérieur des véhicules. Par la suite il a du créer et programmer les robots afin qu'ils puissent entretenir automatiquement les plantes. ![photo de robots](bian/media/camion_blanc_profil_conducteur_large.jpg)
+![photo des plantes]()
