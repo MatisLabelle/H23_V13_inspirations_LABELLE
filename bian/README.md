@@ -21,8 +21,8 @@ Afin de rendre l'exposition de l'oeuvre possible, il y avait du matériel fourni
 * deux projecteurs
 * trois poubelles
 * Un bidon d'eau
-![photo des projecteur](bian/media/projecteur_1.jpg)
-![photo des projecteur](bian/media/projecteur_2.jpg)
-![photo des poubelles](bian/media/derriere_poubelle.jpg)
-![photo des bidon](bian/media/derriere_poubelle_eau.jpg)
+![photo des projecteur](media/projecteur_1.jpg)
+![photo des projecteur](media/projecteur_2.jpg)
+![photo des poubelles](media/derriere_poubelle.jpg)
+![photo des bidon](media/derriere_poubelle_eau.jpg)
 
