@@ -28,6 +28,7 @@ Afin de rendre l'exposition de l'oeuvre possible, il y avait du matériel fourni
 
 L'oeuvre donne une réelle impression d'être dans une scène post-apocaplytique. L'ambiance mise en oeuvre par l'artiste était très réussi. C'était impressionnant et fascinant de regarder les plantes se faire entretenir automatiquement par les robots. Cela a augmenté mon intérêt pour la programation puisque c'est ainsi que Paul Duncombe a réussi à créer des robots capables d'entretenir des plantes.
 
+VIDÉO FONCTIONNEMENT DES ROBOTS
 [![VIDÉO TOMMOROW'S BORROWED SCENERY](media/camion_blanc_interieur_conducteur.jpg)](https://youtube.com/shorts/VFar_jDTp9Q?feature=share)
 
 Un élément au sujet de cette oeuvre m'a beaucoup plu. Cette oeuvre a été recréer dans plusieurs pays. Selon le pays dans lequel l'oeuvre était exposée, l'artiste choisissait des voitures commune et plus utilisé dans les dits pays. Ici à Montréal, l'artiste a décidé d'utiliser des camionnettes ce qui fonctionne bien puisqu'en Amérique du nord le F-15O, de la marque Ford, est le véhicule le plus vendu depuis plus de 20ans. Toute fois, aucun F-150 était présent dans l'oeuvre, mais les camionnettes donnaient quand même l'impression de familiarité avec l'oeuvre.
