@@ -34,4 +34,4 @@ Un élément au sujet de cette oeuvre m'a beaucoup plu. Cette oeuvre a été rec
 ![photo de camionnette](media/camion_blanc_face.jpg)
 
 À l'opposé, certains éléments m'ont moins plu. Par exemple, l'oeuvre étant exposée avec d'autre oeuvre, son ambiance sonnore était polluée par d'autre oeuvre adjacentes. L'une des oeuvres voisines à TOMMOROW'S BORROWED SCENERY avait une bande sonnore qui jouait très fort et qui nuisait à l'ambiance de l'oeuvre de Paul Duncombe. De plus, certaints éléments mécaniques sur les camionnettes faisaient moins de sens à mon avis. L'élément que j'ai remarqué en premier est la roue avant gauche de la camionnette rouge. La roue ainsi que les pièces de suspensions étaient manquantes alors que les pièces du mécanisme de freinage étaient présentes. Ceci est illogique puisque les freins se retrouve entre la roue et la suspension. Donc en  imaginant que les pièces manquantes auraient été dérobées, car c'est ce qui est le plus logique dans ce scénario, je me demande pourquoi les "voleurs" auraient pris le temps de reposer les freins au lieu de les garder aussi.
-
+![photo de la roue](media/camion_rouge_roue avant.jpg)
