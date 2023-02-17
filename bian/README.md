@@ -28,4 +28,4 @@ Afin de rendre l'exposition de l'oeuvre possible, il y avait du matériel fourni
 
 L'oeuvre donne une réelle impression d'être dans une scène post-apocaplytique. L'ambiance mise en oeuvre par l'artiste était très réussi. C'était impressionnant et fascinant de regarder les plantes se faire entretenir automatiquement par les robots. Cela a augmenté mon intérêt pour la programation puisque c'est ainsi que Paul Duncombe a réussi à créer des robots capables d'entretenir des plantes.
 
-[![VIDÉO TOMMOROW'S BORROWED SCENERY](media/camion_blanc_robot_porte_conducteur.jpg)]([![VIDÉO TOMMOROW'S BORROWED SCENERY](media/camion_blanc_robot_porte_conducteur.jpg)](https://youtu.be/EUWQL71wEC8))
+[![VIDÉO TOMMOROW'S BORROWED SCENERY](media/camion_blanc_robot_porte_conducteur.jpg)]([![VIDÉO TOMMOROW'S BORROWED SCENERY](media/camion_blanc_interieur_conducteur.jpg)](https://youtu.be/EUWQL71wEC8))
