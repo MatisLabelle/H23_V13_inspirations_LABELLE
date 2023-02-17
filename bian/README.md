@@ -17,7 +17,7 @@ La camionnette noire est déposée sur les camionnettes rouge et blanche. Des ro
 Pour exposer son oeuvre, l'artiste a dû empiler les camionnettes. Il a aussi dû planter les mousses et autres plantes à l'intérieur des véhicules. Par la suite, il a dû créer et programmer les robots afin qu'ils puissent entretenir automatiquement les plantes. ![photo de robots](media/camion_blanc_profil_conducteur_large.jpg)
 ![photo des plantes](media/camion_noir_plante.jpg)
 
-Afin de rendre l'exposition de l'oeuvre possible, il y avait du matériel fournit par le centre d'exposition. Dans ce matériel on retrouve: 
+Afin de rendre l'exposition de l'oeuvre possible, il y avait du matériel fourni par le centre d'exposition. Dans ce matériel, on retrouve: 
 * deux projecteurs
 * trois poubelles
 * Un bidon d'eau
