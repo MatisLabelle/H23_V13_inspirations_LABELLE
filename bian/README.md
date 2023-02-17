@@ -31,3 +31,4 @@ L'oeuvre donne une réelle impression d'être dans une scène post-apocaplytique
 [![VIDÉO TOMMOROW'S BORROWED SCENERY](media/camion_blanc_interieur_conducteur.jpg)](https://youtube.com/shorts/VFar_jDTp9Q?feature=share)
 
 Un élément au sujet de cette oeuvre m'a beaucoup plu. Cette oeuvre a été recréer dans plusieurs pays. Selon le pays dans lequel l'oeuvre était exposée, l'artiste choisissait des voitures commune et plus utilisé dans les dits pays. Ici à Montréal, l'artiste a décidé d'utiliser des camionnettes ce qui fonctionne bien puisqu'en Amérique du nord le F-15O est le véhicule le plus vendu depuis plus de 20ans.
+![photo de camionnette](media/camion_blanc_face.jpg)
