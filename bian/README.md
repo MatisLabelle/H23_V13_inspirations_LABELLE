@@ -1,4 +1,4 @@
-# Fiche présentation Tommorow's Borrowed Scenery
+# Fiche de présentation de Tommorow's Borrowed Scenery
 
 La biennale d'art numérique se déroulait se déroulait à l'Arsenal.
 C'était une exposition temporaire que nous avons visité le 3 février 2023.
