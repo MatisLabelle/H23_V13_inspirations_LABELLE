@@ -12,7 +12,7 @@ C'est une oeuvre comtemplative, mais elle réussi à nous faire voyager dans un 
 VIDÉO TOMMOROW'S BORROWED SCENERY
 [![VIDÉO TOMMOROW'S BORROWED SCENERY](media/camion_blanc_robot_porte_conducteur.jpg)](https://youtu.be/EUWQL71wEC8)
 
-La camionnette noir est déposée sur les camionnettes rouge et blanche. Des robots sont à l'extérieur afin qu'ils soient visibles. L'oeuvre nécéssite un grand espace pour exposé. L'oeuvre est placée au sol, mais elle a une hauteure conséquante puisque les camionnettes sont superposées. ![photo de l'oeuvre](media/camion_trois_ensemble.jpg)
+La camionnette noir est déposée sur les camionnettes rouge et blanche. Des robots sont à l'extérieur afin qu'ils soient visibles. L'oeuvre nécéssite un grand espace pour être exposée. L'oeuvre est placée au sol, mais elle a une hauteure conséquante puisque les camionnettes sont superposées. ![photo de l'oeuvre](media/camion_trois_ensemble.jpg)
 
 Pour exposer son oeuvre, l'artiste a du empiler les camionnettes. Il a aussi du planter les mousses et autres plantes à l'intérieur des véhicules. Par la suite il a du créer et programmer les robots afin qu'ils puissent entretenir automatiquement les plantes. ![photo de robots](media/camion_blanc_profil_conducteur_large.jpg)
 ![photo des plantes](media/camion_noir_plante.jpg)
@@ -26,3 +26,6 @@ Afin de rendre l'exposition de l'oeuvre possible, il y avait du matériel fourni
 ![photo des poubelles](media/derriere_poubelle.jpg)
 ![photo des bidon](media/derriere_poubelle_eau.jpg)
 
+L'oeuvre donne une réelle impression d'être dans une scène post-apocaplytique. L'ambiance mise en oeuvre par l'artiste était très réussi. C'était impressionnant et fascinant de regarder les plantes se faire entretenir automatiquement par les robots. Cela a augmenté mon intérêt pour la programation puisque c'est ainsi que Paul Duncombe a réussi à créer des robots capables d'entretenir des plantes.
+
+[![VIDÉO TOMMOROW'S BORROWED SCENERY](media/camion_blanc_robot_porte_conducteur.jpg)]([![VIDÉO TOMMOROW'S BORROWED SCENERY](media/camion_blanc_robot_porte_conducteur.jpg)](https://youtu.be/EUWQL71wEC8))
