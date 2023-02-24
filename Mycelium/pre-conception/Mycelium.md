@@ -10,3 +10,8 @@ Le Mycelium est le réseau utilisé par les êtres vivants dans la nature. Ce r�
 Installation du projet
 Le projet sera situé dans les sentiers devant le cegep, il y aura des lumières et du son intéractif.
 
+![photo installation Nexum](media/nexum_installation.jpg)
+
+Schéma d'installation
+![photo schéma installation Nexum](https://github.com/Boucle-RDDL/Nexum/blob/main/docs/preproduction/medias/Passe_lumiere.png)
+https://github.com/Boucle-RDDL/Nexum/blob/main/docs/preproduction/medias/Passe_lumiere.png
