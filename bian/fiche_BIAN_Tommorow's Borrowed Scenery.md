@@ -3,7 +3,7 @@
 La biennale d'art numérique se déroulait à l'Arsenal.
 C'était une exposition temporaire que nous avons visitée le 3 février 2023.
 L'oeuvre que j'ai choisi d'analyser est *Tommorow's Borrowed Scenery*. 
-<img src="media/camion_trois_ensemble.jpg" width="500"
+<img src="media/camion_trois_ensemble.jpg" width="500">
 ![photo de l'oeuvre](media/camion_trois_ensemble.jpg)
 Cette oeuvre a été créée par Paul Duncombe en 2022.
 
