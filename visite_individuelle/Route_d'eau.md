@@ -17,3 +17,5 @@ La route d'eau est une oeuvre poétique écrtite par Joséphine Bacon et mise en
 Le poème est affiché dans la fenêtre à l'étage du rez-de-chaussée. Toutefois, l'installation prend place sur trois autres fenêtres au dessus de celle avec le poème. Des lumières sont installées derrière les fenêtres pour qu'une fois la nuit tombée les fenêtres attirent plus l'attention des passants. Pour ma part, ayant visité l'oeuvre en pleine journée, je n'ai pas pu vivre l'expérience pleinement. Voici une image provenant du site internet du centre PHI pour comprendre à quoi ressemble cette oeuvre de nuit.
 
 <img src="phi_nuit.jpg" height="500">
+
+a
