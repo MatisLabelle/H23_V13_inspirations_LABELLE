@@ -1,6 +1,6 @@
 # Labelle Matis
 
-<img src"photo_matis.jpg" width="500"
+<img src"photo_matis.jpg" width="500">
 
 ## Intérêts dans le domaine multimédia
 
