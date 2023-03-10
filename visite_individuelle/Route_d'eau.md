@@ -10,6 +10,8 @@ Le centre PHI est installé sur la rue St-Paul dans le cartier du vieux-Montréa
 <img src="media/photo_moi_phi.jpg" height="500">
 
 ## La route d'eau
-
 <img src="media/fenetre_1_poeme.jpg" height="500">
-La route d'eau est une oeuvre poétique écrtite par Joséphine Bacon et mise en valeur pa
+La route d'eau est une oeuvre poétique écrtite par Joséphine Bacon et mise en valeur par l'installation de Sylvain Dumais et Phoebe Greenberg et la trame sonore de Kelly Nunes. Ce poème a été écrit en 2021 par la poète Inuite Josephine Bacon.
+
+### Description
+
