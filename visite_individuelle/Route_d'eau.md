@@ -11,4 +11,4 @@ Le centre PHI est installé sur la rue St-Paul dans le cartier du vieux-Montréa
 
 ## La route d'eau
 
-<img src="media/fenetres_1_poeme.jpg" height="500">
+<img src="media/fenetre_1_poeme.jpg" height="500">
