@@ -1,3 +1,5 @@
+Yannick je crois directeur technique chez halo création
+
 multimedia contexte muséale
 la technique et la technologie sont au service de l'art et du contenue
 
@@ -14,7 +16,11 @@ des REVERIES naissent des IDÉATIONS qui provoquent des CONNEXIONS qui génèren
 * Le temps
 * Les moyens techniques et technologiques
   *   installation et intégration
+  *   manuel d'opération
 * Budget et échéancier
 
 laisser le telephone des gens dans leurs poches application web > application à télécharger
 
+toujours documenter plans, log cabalage... ca fait plus pro
+
+faire moins mieux > faire plus
