@@ -18,3 +18,6 @@ Le poème est affiché dans la fenêtre à l'étage du rez-de-chaussée. Toutefo
 
 <img src="media/phi_nuit.jpg" height="500">
 
+Cette oeuvre est contemplative. Sa taille étant assez petite ne nous transporte pas. Toutefois, le poème lui est nous fait voyager. L'autrice nous image bien ce voyage en canoe ce qui le rend très beau et touchant.
+
+<img src="media/phi"
