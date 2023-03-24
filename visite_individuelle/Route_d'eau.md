@@ -20,4 +20,4 @@ Le poème est affiché dans la fenêtre à l'étage du rez-de-chaussée. Toutefo
 
 Cette oeuvre est contemplative. Sa taille étant assez petite ne nous transporte pas. Toutefois, le poème lui est nous fait voyager. L'autrice nous image bien ce voyage en canoe ce qui le rend très beau et touchant.
 
-<img src="media/phi"
+<img src="media/fenetres_ensembles.jpg" height="500">
