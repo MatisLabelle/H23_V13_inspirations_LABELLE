@@ -24,7 +24,7 @@ Pour réaliser cette oeuvre les membres de l'équipes ont du programmer l'intég
 
 Beaucoup de matériel est nécéssaire à l'exposition d'une telle oeuvre. Entre autre des haut-parleurs, beaucoups de lumières intelligntes, des senseurs, des ordinateurs/serveur pour faire marcher le tout. De plus Tous les fils de l'oeuvre sont protégés par des caches fils et le tout est constamant surveillé par caméra de surveillance.
 
-<img src="media/edria_table_cache_fil.jpg" height="300"> <img src="media/edria_camera.jpg" height="300">
-<img src="media/edria_intérieur_boite.jpg" height="300"> <img src="media/edria_boite_cache_fil.jpg" height="300">
+<img src="media/edria_table_cache_fil.jpg" height="200"> <img src="media/edria_camera.jpg" height="200">
+<img src="media/edria_intérieur_boite.jpg" height="200"> <img src="media/edria_boite_cache_fil.jpg" height="200">
 
 Je n'ai pas vu l'oeuvre de nuit. Durant la journée les lumières n'éaient pas très visible, mais rien qu'à entendre la bande sonore je savais que l'oeuvre était réussite et que l'ambiance désiré allait être la bonne. L'ambiance est intéractive et les lumières et le son changent selon l'emplencement et le nombre de visiteurs. Cet apect est selon moi très intéressant et amusant. Cela rendra probablement l'expérience du visiteur unique ce qui est définitivement un point fort de l'oeuvre. Toutfois, l'apect négatif est le même. L'aspect intéractif de l'oeuvre est difficile à comprendre et utilisé ce qui peut rendre le visiteur confu ou de ne pas le faire rester dans l'espace plus longtemps.
