@@ -26,3 +26,5 @@ Beaucoup de matériel est nécéssaire à l'exposition d'une telle oeuvre. Entre
 
 <img src="media/edria_table_cache_fil.jpg" height="300"> <img src="media/edria_camera.jpg" height="300">
 <img src="media/edria_intérieur_boite.jpg" height="300"> <img src="media/edria_boite_cache_fil.jpg" height="300">
+
+Je n'ai pas vu l'oeuvre de nuit. Durant la journée les lumières n'éaient pas très visible, mais rien qu'à entendre la bande sonore je savais que l'oeuvre était réussite et que l'ambiance désiré allait être la bonne. L'ambiance est intéractive et les lumières et le son changent selon l'emplencement et le nombre de visiteurs. Cet apect est selon moi très intéressant et amusant. Cela rendra probablement l'expérience du visiteur unique ce qui est définitivement un point fort de l'oeuvre. Toutfois, l'apect négatif est le même. L'aspect intéractif de l'oeuvre est difficile à comprendre et utilisé ce qui peut rendre le visiteur confu ou de ne pas le faire rester dans l'espace plus longtemps.
