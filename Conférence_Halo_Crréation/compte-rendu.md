@@ -1,0 +1,3 @@
+Yanik Daunais, directeur général et producteur chez Halo Création, une entreprise de production multimédia. Yanik est venu nous parler de son travail chez Halo création et sa vision des choses sur l'art et le multimédia. Il nous a expliquer que le multimédia et la technique muséale et la technologie sont au service de l'art.
+
+Ils nous a parler de sa compagnie et de son but qui est de mettre envaleurs l'art grâce à des dispositif multimédia. Il aime connecter humanité, technologie et l'imaginaire. Ils nous a aussi parler des capacitées importantes à avoir dans ce domaine. Il a nommé la capacité à regler des problêmes et surtout la documentation des projets.
