@@ -7,4 +7,4 @@ Edria était exposé sur le terrain du cégep montmorency près de la salle Andr
 
 Edria est une oeuvre intéractive qui joue avec l'ambiance intéractive grâce à un jeu de lumière et une trame sonore envoutante. L'oeuvre est faite pour être visité durant la nuit quand il fait plus sombre. Sans cela l'ambiance est moins bien réussis. Malheureusement, ma visite s'est déroulé le jours puisque c'était lors de notre cours de documentation.
 
-<img src="edria_ensemble.jpg" width="500">
+<img src="media/edria_ensemble.jpg" width="500">
