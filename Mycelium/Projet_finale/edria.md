@@ -13,3 +13,7 @@ Pour changer l'ambiance de l'espace de manière intéractive avec le public, l'�
 
 <img src="media/edria_table_3-poteau.jpg" width="500">
 
+La mise en place de l'oeuvre est plutôt simple pour optimiser l'espace. Il y a un poteau centrale et des poteaus secondaires qui l'entourent ce qui permet de définir l'espace allouer à l'oeuvre. Des tables y sont installées pour rendre l'endroit plus acceuillant.
+
+<img src"https://tim-montmorency.com/2023/projets/EDRIA/docs/web/medias/gallerie/visualisation.png" width="500">
+*plan de l'équipe d'Edria https://tim-montmorency.com/2023/projets/EDRIA/docs/web/medias/gallerie/visualisation.png
