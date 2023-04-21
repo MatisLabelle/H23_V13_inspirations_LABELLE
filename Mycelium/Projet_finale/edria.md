@@ -24,4 +24,4 @@ Pour réaliser cette oeuvre les membres de l'équipes ont du programmer l'intég
 
 Beaucoup de matériel est nécéssaire à l'exposition d'une telle oeuvre. Entre autre des haut-parleurs, beaucoups de lumières intelligntes, des senseurs, des ordinateurs/serveur pour faire marcher le tout. De plus Tous les fils de l'oeuvre sont protégés par des caches fils et le tout est constamant surveillé par caméra de surveillance.
 
-<img src="media/edria_table_cache_fil.jpg" height="300"> <img src="media/edria_poteau_centrale.jpg" height="300">
+<img src="media/edria_table_cache_fil.jpg" height="300"> <img src="media/edria_camera.jpg" height="300">
