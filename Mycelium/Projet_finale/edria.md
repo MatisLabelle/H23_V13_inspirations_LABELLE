@@ -21,3 +21,7 @@ La mise en place de l'oeuvre est plutôt simple pour optimiser l'espace. Il y a 
 Pour réaliser cette oeuvre les membres de l'équipes ont du programmer l'intégralité des lumières, des senseurs et des sons. Ce qu'ils appellent le «mapping» consiste à programmer ces derniers ensembles ce qui a été un défi, mais ils y sont parvenue avec succès.
 
 <img src="media/edria_poteau_centrale.jpg" height="300"> <img src="media/edria_poteau_secondaire.jpg" height="300">
+
+Beaucoup de matériel est nécéssaire à l'exposition d'une telle oeuvre. Entre autre des haut-parleurs, beaucoups de lumières intelligntes, des senseurs, des ordinateurs/serveur pour faire marcher le tout. De plus Tous les fils de l'oeuvre sont protégés par des caches fils et le tout est constamant surveillé par caméra de surveillance.
+
+<img src="media/edria_table_cache_fil.jpg" height="300"> <img src="media/edria_poteau_centrale.jpg" height="300">
