@@ -19,3 +19,5 @@ La mise en place de l'oeuvre est plutôt simple pour optimiser l'espace. Il y a 
 *plan de l'équipe d'Edria https://tim-montmorency.com/2023/projets/EDRIA/docs/web/medias/gallerie/visualisation.png
 
 Pour réaliser cette oeuvre les membres de l'équipes ont du programmer l'intégralité des lumières, des senseurs et des sons. Ce qu'ils appellent le «mapping» consiste à programmer ces derniers ensembles ce qui a été un défi, mais ils y sont parvenue avec succès.
+
+<img src="media/edria_poteau_centrale.jpg" height="300"> <img src="media/edria_poteau_secondaire.jpg" height="300">
