@@ -9,7 +9,7 @@ Edria est une oeuvre intéractive qui joue avec l'ambiance intéractive grâce �
 
 <img src="media/edria_ensemble.jpg" width="500">
 
-Pour changer l'ambiance de l'espace de manière intéractive avec le public, l'équipe d'Edria a mit en place des capteurs de mouvements et des "senser" pour changer les lumières et le son selon la quantité de personnes dans l'espace. L'espace est aménagé avec des tables pour rendre l'endroit plus agréables et rendre la visite plus confortable.
+Pour changer l'ambiance de l'espace de manière intéractive avec le public, l'équipe d'Edria a mit en place des capteurs de mouvements et des senseurs pour changer les lumières et le son selon la quantité de personnes dans l'espace. L'espace est aménagé avec des tables pour rendre l'endroit plus agréables et rendre la visite plus confortable.
 
 <img src="media/edria_table_3-poteau.jpg" width="500">
 
@@ -17,3 +17,5 @@ La mise en place de l'oeuvre est plutôt simple pour optimiser l'espace. Il y a 
 
 <img src="https://tim-montmorency.com/2023/projets/EDRIA/docs/web/medias/gallerie/visualisation.png" width="500">
 *plan de l'équipe d'Edria https://tim-montmorency.com/2023/projets/EDRIA/docs/web/medias/gallerie/visualisation.png
+
+Pour réaliser cette oeuvre les membres de l'équipes ont du programmer l'intégralité des lumières, des senseurs et des sons. Ce qu'ils appellent le «mapping» consiste à programmer ces derniers ensembles ce qui a été un défi, mais ils y sont parvenue avec succès.
