@@ -13,7 +13,7 @@ Vidéo du dispositif
 
 Ce dispositif intéractif permet d'apprendre et d'observer les reflexs d'une personne selon son âge tout en étant amusant. Le dispositif n'est pas très grand. Il est principalement constitué d'un module avec un écran et des explication. Il y a un petit espace au sol désigné par un collant qui nous indique où se positionner pour jouer au jeu.
 
-<img src="medias/soccer_ensemble2.jpg" width="600">
+<img src="medias/soccer_ensemble2.jpg" height="600">
 
 Le dispositif requiert seulement une webcam, un écran et un ordinateur qui contient le logiciel programmé pour faire marcher le jeu.
 
