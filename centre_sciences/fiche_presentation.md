@@ -19,4 +19,4 @@ Le dispositif requiert seulement une webcam, un écran et un ordinateur qui cont
 <img src="medias/soccer_ecran.jpg" width="300"> <img src="medias/soccer_webcam.jpg" width="300">
 
 Pour que ce jeu soit exposé, le centre des sciences a du y ajouter quelques accessoires. Tel que : une lumière, un autocollant au sol pour positionner le joueur, des cable et un petit système de ventillation pour l'ordinateur à l'intérieur.
-<img src="medias/soccer_lumiere.jpg" height="200"> <img src="medias/soccer_pied.jpg" height="200"> <img src="medias/soccer_cable.jpg" height="200"><img src="medias/soccer_ventilation.jpg" height="200">
+<img src="medias/soccer_lumiere.jpg" height="200"> <img src="medias/soccer_cable.jpg" height="200"> <img src="medias/soccer_pied.jpg" width="200"> <img src="medias/soccer_ventilation.jpg" width="200">
