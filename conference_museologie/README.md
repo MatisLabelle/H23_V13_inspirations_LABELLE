@@ -1,1 +1,1 @@
-Ce dossier contient un compte rendu de la conférence de 
+Ce dossier contient un compte rendu de la conférence de Karine Charbonneau
