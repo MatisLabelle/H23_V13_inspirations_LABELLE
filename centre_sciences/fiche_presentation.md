@@ -10,4 +10,5 @@ Vidéo du dispositif
 [![VIDÉO PAS FACILE DE SAISIR LA BALLE AU BOND](medias/soccer_ensemble.jpg)](https://www.youtube.com/watch?v=OYv5aiOYG3o&ab_channel=MatisLabelle)
 
 
-Ce dispositif intéractif permet d'apprendre et d'observer les reflexs d'une personne selon son âge tout en étant amusant.
+Ce dispositif intéractif permet d'apprendre et d'observer les reflexs d'une personne selon son âge tout en étant amusant. Le dispositif n'est pas très grand. Il est principalement constitué d'un module avec un écran et des explication. Il y a un petit espace au sol désigné par un collant qui nous indique où se positionner pour jouer au jeu.
+<img src="medias/soccer_ensemble2.jpg" width="500">
