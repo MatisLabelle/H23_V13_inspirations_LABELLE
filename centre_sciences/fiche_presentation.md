@@ -16,4 +16,7 @@ Ce dispositif intéractif permet d'apprendre et d'observer les reflexs d'une per
 
 Le dispositif requiert seulement une webcam, un écran et un ordinateur qui contient le logiciel programmé pour faire marcher le jeu.
 
-<img src="medias/soccer_ecran.jpg" width="300"> <img src="medias/soccer_pied.jpg" width="300">
+<img src="medias/soccer_ecran.jpg" width="300"> <img src="medias/soccer_webcam.jpg" width="300">
+
+Pour que ce jeu soit exposé, le centre des sciences a du y ajouter quelques accessoires. Tel que : une lumière, un autocollant au sol pour positionner le joueur, des cable et un petit système de ventillation pour l'ordinateur à l'intérieur.
+<img src="medias/soccer_lumiere.jpg" width="200"> <img src="medias/soccer_pied.jpg" width="200"> <img src="medias/soccer_cables.jpg" width="200"><img src="medias/soccer_ventillation.jpg" width="200">
