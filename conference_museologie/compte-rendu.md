@@ -1,1 +1,7 @@
+# Compte-rendu de la conférence de Karine Charbonneau
 
+Le 28 mars 2023, nous avons participé à une présentation de Karine Charbonneau, qui est directrice des expositions chez Antimodular, le studio de l'artiste Rafael Lozano-Hemmer. Karine nous a fait part de son parcours académique et professionnel, ainsi que de son expérience de travail dans l'équipe de Rafael Lozano-Hemmer. Elle nous a ensuite parlé du rôle qu'elle occupe chez Antimodular, et de la façon dont le studio fonctionne pour soutenir le travail de l'artiste et présenter ses œuvres.
+
+Karine a débuté la présentation en nous présentant Rafael Lozano-Hemmer, artiste mexicain-canadien qui a étudié la chimie et qui utilise la technologie pour créer des œuvres d'art. Selon lui, une œuvre n'existe pas sans la participation du public. Karine a ensuite expliqué le fonctionnement d'Antimodular, un studio créatif qui soutient le développement artistique de Rafael Lozano-Hemmer. Elle a insisté sur l'importance de la documentation minutieuse de tous les projets, une tâche qui incombe à chaque membre de l'équipe.
+
+Pour conclure, j'ai été impressionné par la manière dont Karine a utilisé des médias tels que des vidéos et des présentations PowerPoint pour illustrer les œuvres de Rafael Lozano-Hemmer et le contenu de la présentation. Les informations étaient détaillées et pertinentes, et j'ai appris beaucoup de choses sur le monde des arts médiatiques.
